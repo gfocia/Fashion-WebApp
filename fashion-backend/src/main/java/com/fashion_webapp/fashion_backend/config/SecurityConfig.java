@@ -1,3 +1,4 @@
+// Disables CSRF and permits all requests unauthenticated — placeholder until auth is added.
 package com.fashion_webapp.fashion_backend.config;
 
 import org.springframework.context.annotation.Bean;

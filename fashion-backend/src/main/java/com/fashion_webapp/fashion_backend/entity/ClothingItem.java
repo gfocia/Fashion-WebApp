@@ -1,3 +1,4 @@
+// JPA entity mapped to the clothing_items table — stores id, name, S3 image URL, and category.
 package com.fashion_webapp.fashion_backend.entity;
 
 import jakarta.persistence.Entity;

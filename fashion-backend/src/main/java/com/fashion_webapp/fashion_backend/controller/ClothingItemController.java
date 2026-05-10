@@ -1,3 +1,4 @@
+// REST controller exposing POST /api/items/upload (upload image + name) and GET /api/items (fetch all items).
 package com.fashion_webapp.fashion_backend.controller;
 
 import com.fashion_webapp.fashion_backend.entity.ClothingItem;

@@ -1,3 +1,4 @@
+// Handles uploading image files to AWS S3 and returns the public URL of the uploaded object.
 package com.fashion_webapp.fashion_backend.service;
 
 import org.springframework.beans.factory.annotation.Value;

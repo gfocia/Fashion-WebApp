@@ -1,3 +1,4 @@
+// Allows the React frontend (localhost:5173) to make cross-origin requests to the backend API.
 package com.fashion_webapp.fashion_backend.config;
 
 import org.springframework.context.annotation.Configuration;

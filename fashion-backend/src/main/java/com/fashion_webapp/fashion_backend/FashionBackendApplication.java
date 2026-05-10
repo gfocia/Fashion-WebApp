@@ -1,3 +1,4 @@
+// Entry point for the Spring Boot application — bootstraps and starts the server.
 package com.fashion_webapp.fashion_backend;
 
 import org.springframework.boot.SpringApplication;

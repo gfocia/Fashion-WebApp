@@ -1,6 +1,8 @@
 .env
 *.key
+
 CLAUDE.md
 .DS_Store
 .vscode/
 fashion-backend/src/main/resources/application-local.properties
+fashion-backend/src/main/resources/application.properties
